@@ -1,4 +1,4 @@
-# Bare-metal OS for Raspberry Pi Zero 2 W
+# Bare-metal terminal for Raspberry Pi Zero 2 W
 
 This is a minimal terminal example developed from scratch for the Raspberry Pi Zero 2 W (ARMv8-A architecture), without relying on any existing OS or emulation layers.
 
