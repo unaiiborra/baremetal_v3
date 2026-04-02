@@ -1,6 +1,6 @@
 # Bare-metal OS for Raspberry Pi Zero 2 W
 
-This is a minimal operating system developed from scratch for the Raspberry Pi Zero 2 W (ARMv8-A architecture), without relying on any existing OS or emulation layers.
+This is a minimal terminal example developed from scratch for the Raspberry Pi Zero 2 W (ARMv8-A architecture), without relying on any existing OS or emulation layers.
 
 ![UART terminal output](example.gif)
 
